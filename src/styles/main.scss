@@ -1,0 +1,16 @@
+@import "./vendor/libs";
+@import "helpers/variables";
+@import "helpers/mixins";
+@import "helpers/functions";
+@import "base/fonts";
+@import "base/general";
+@import "../blocks/modules";
+
+
+body {
+  background: #010102;
+}
+
+a {
+  text-decoration: none;
+}
